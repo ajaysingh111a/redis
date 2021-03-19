@@ -1,0 +1,7 @@
+spring:
+  redis:
+    database: 0
+    host: ec2-13-232-58-176.ap-south-1.compute.amazonaws.com
+    port: 6379
+    password: paynav
+    timeout: 60000
